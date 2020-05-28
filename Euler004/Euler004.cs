@@ -10,7 +10,7 @@ namespace Euler004
             Array.Reverse(inputChars);
             string inputReversed = new string(inputChars);
 
-            return (input == inputReversed) ? true : false;
+            return (input == inputReversed);
         }
 
         static bool IsPalindrome(int input)
