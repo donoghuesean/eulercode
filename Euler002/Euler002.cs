@@ -1,10 +1,15 @@
-﻿using System;
+﻿/* Even Fibonacci numbers 
+* Problem 2
+* https://projecteuler.net/problem=2
+*/
+
+using System;
 
 namespace Euler002
 {
     class Euler002
     {
-        static int Fibonacci(int number)
+        static int Fibonacci(int number) // Returns the nth Fibonacci number where n = number
         {
             switch (number)
             {
