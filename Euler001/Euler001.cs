@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Multiples of 3 and 5  
+* Problem 1
+* https://projecteuler.net/problem=1
+*/
+
+using System;
 
 namespace ProjectEuler
 {
@@ -6,6 +11,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
+            // 'end' and the integers in the 'multiples' array can be changed to work with other numbers
             int end = 1000;
             int[] multiples = {3, 5};
 
@@ -17,7 +23,7 @@ namespace ProjectEuler
                     if (i % multiple == 0)
                     {
                         answer += i;
-                        break;
+                        break; // Avoids one number counting twice
                     }
                 }
             }
