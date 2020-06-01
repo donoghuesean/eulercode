@@ -25,18 +25,14 @@ namespace Euler002
         static void Main(string[] args)
         {
             int max = 4000000;
-            int fibonacciCounter = 1;
-            int currentFibonacci = 0;
             int answer = 0;
 
-            while(currentFibonacci < max)
+            for (int i = 1, fibNumber = 1; fibNumber < max; i++, fibNumber = Fibonacci(i)) // Loops through all Fibonacci numbers below 'max'
             {
-                currentFibonacci = Fibonacci(fibonacciCounter);
-                if(currentFibonacci % 2 == 0)
+                if (fibNumber % 2 == 0)
                 {
-                    answer += currentFibonacci;
+                    answer += fibNumber;
                 }
-                fibonacciCounter++;
             }
 
             Console.WriteLine(answer);

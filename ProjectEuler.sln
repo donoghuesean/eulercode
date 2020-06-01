@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler008", "Euler008\Euler0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler009", "Euler009\Euler009.csproj", "{4D3F0247-296C-445B-BE8C-5B3DD8A49FC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler010", "Euler010\Euler010.csproj", "{A96902D7-D1F3-4CDB-9DEF-9AD69744D97B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler010", "Euler010\Euler010.csproj", "{A96902D7-D1F3-4CDB-9DEF-9AD69744D97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
