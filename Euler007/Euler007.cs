@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* 10001st prime
+ * Problem 7
+ * https://projecteuler.net/problem=7
+ */
+
+using System;
 
 namespace Euler007
 {

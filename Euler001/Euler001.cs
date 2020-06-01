@@ -1,7 +1,7 @@
 ﻿/* Multiples of 3 and 5  
-* Problem 1
-* https://projecteuler.net/problem=1
-*/
+ * Problem 1
+ * https://projecteuler.net/problem=1
+ */
 
 using System;
 

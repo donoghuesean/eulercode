@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Largest product in a series
+ * Problem 8
+ * https://projecteuler.net/problem=8
+ */
+
+using System;
 
 namespace Euler008
 {

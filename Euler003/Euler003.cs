@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Largest prime factor
+ * Problem 3
+ * https://projecteuler.net/problem=3
+ */
+
+using System;
 
 namespace Euler003
 {

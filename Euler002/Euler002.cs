@@ -1,7 +1,7 @@
-﻿/* Even Fibonacci numbers 
-* Problem 2
-* https://projecteuler.net/problem=2
-*/
+﻿/* Even Fibonacci numbers
+ * Problem 2
+ * https://projecteuler.net/problem=2
+ */
 
 using System;
 

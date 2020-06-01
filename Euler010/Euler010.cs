@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Summation of primes
+ * Problem 10
+ * https://projecteuler.net/problem=10
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

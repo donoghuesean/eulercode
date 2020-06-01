@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Sum square difference
+ * Problem 6
+ * https://projecteuler.net/problem=6
+ */
+
+using System;
 
 namespace Euler006
 {

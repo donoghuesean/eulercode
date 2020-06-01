@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Largest palindrome product
+ * Problem 4
+ * https://projecteuler.net/problem=4
+ */
+
+using System;
 
 namespace Euler004
 {

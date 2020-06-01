@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Special Pythagorean triplet
+ * Problem 9
+ * https://projecteuler.net/problem=9
+ */
+
+using System;
 
 namespace Euler009
 {

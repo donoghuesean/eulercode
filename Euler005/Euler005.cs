@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Smallest multiple
+ * Problem 5
+ * https://projecteuler.net/problem=5
+ */
+
+using System;
 
 namespace Euler005
 {
